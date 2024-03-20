@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I successfully completed my Computer Engineering degree at Kocaeli University and am now focusing on improving my skills in .NET and React to advance my career as a full-stack developer.</p>
+<p align="left">I have successfully completed my Computer Engineering degree at Kocaeli University and am now focusing on improving my skills in .NET and React to advance my career as a full-stack developer.</p>
 
 ###
 
